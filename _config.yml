@@ -1,0 +1,21 @@
+# Setup
+title: Stable Pre-Training Paradigms for LLMs <br> Reducing Instability, Increasing Capacity
+description: CAI Workshop 2025
+baseurl:      "/stable-pretraining-paradigms-for-llms.github.io"
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  #name:       Author name
+  url:       "https://stable-pretraining-paradigms-for-llms.github.io" 
+
+#Others
+navigation:
+  Workshop: "index"
+  Speakers: "speakers"
+  Organizers: "organizers"
+  Venue: "venue"
+  Schedule: "schedule"
+  Q&A: "question"
+markdown: kramdown
