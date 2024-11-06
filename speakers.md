@@ -3,7 +3,7 @@ layout: default
 ---
 
 # <span style="display:block;text-align:center">Invited Speakers</span>
-
+<!-- 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 2cm;">
     <tr>
         <td style="text-align: center; border: none;"><figure><img src="assets/Yuandong.jpg" height="220"><figcaption>
@@ -25,4 +25,4 @@ layout: default
         <td style="text-align: center; border: none;"><figure><img src="assets/tim.png" height="220"><figcaption>
         <a href="https://timdettmers.com/">Tim Dettmers</a>, <br> Allen Institute for AI and <br> Carnegie Mellon University</figcaption></figure></td>
      </tr> 
-</table>
+</table> -->
