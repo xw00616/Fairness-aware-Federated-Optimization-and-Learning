@@ -1,8 +1,6 @@
 ---
 layout: default 
 ---
-
-<!-- <span style="display:block;text-align:center">![Alt text](assets/logo_acl.png "Title")</span> -->
 <p style='text-align: justify;'><b>Our workshop aims to develop stable pre-training paradigms for LLMs that ensure consistent performance and reliability in Large Language Models (LLMs).</b></p>
 
 # <span style="display:block;text-align:center">Topic and Content</span>
