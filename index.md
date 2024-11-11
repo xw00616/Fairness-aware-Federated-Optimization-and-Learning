@@ -15,22 +15,22 @@ preserving and fairness aware optimization and learning paradigms to leverage th
 The topics of this workshop include but are not limited to the following topics:
 </p>
 <p style='text-align: justify;'>
-    • Privacy-preserving Bayesian optimization and distributed optimization
-   • Privacy-preserving evolutionary algorithm
-• Secure federated data-driven optimization
-• Fairness-aware Bayesian optimization and data-driven optimization
+    • Privacy-preserving Bayesian optimization and distributed optimization <br>
+   • Privacy-preserving evolutionary algorithm <br>
+• Secure federated data-driven optimization <br>
+• Fairness-aware Bayesian optimization and data-driven optimization <br>
 
-• Fairness-aware federated optimization
-• Fairness-aware multi-objective machine learning and optimization
-• Client selection in large scale cross-device FL
-• Data valuation for FL
-• Federated machine unlearning and transfer learning
-• Malicious attacks and defense in FL
-• Optimization strategies in large scale FL
-• Privacy-preserving techniques in FL
-• Scalability and reliability of FL systems
-• Algorithms for training and finetuning large language models in FL
-• Algorithms for training foundation models in FL
+• Fairness-aware federated optimization <br>
+• Fairness-aware multi-objective machine learning and optimization <br>
+• Client selection in large scale cross-device FL <br>
+• Data valuation for FL <br>
+• Federated machine unlearning and transfer learning <br>
+• Malicious attacks and defense in FL <br>
+• Optimization strategies in large scale FL <br>
+• Privacy-preserving techniques in FL <br>
+• Scalability and reliability of FL systems <br>
+• Algorithms for training and finetuning large language models in FL <br>
+• Algorithms for training foundation models in FL <br>
     </p>
 
 
