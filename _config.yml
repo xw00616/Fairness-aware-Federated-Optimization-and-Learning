@@ -13,8 +13,8 @@ author:
 #Others
 navigation:
   Workshop: "index"
-  Speakers: "speakers"
   Organizers: "organizers"
+  Speakers: "speakers"
   Venue: "venue"
   Schedule: "schedule"
   Q&A: "question"
