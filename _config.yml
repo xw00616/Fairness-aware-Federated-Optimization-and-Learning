@@ -1,14 +1,14 @@
 # Setup
-title: Stable Pre-Training Paradigms for LLMs <br> Reducing Instability, Increasing Capacity
+title: Workshop on Fairness-Aware Federated Optimization and Learning <br> Reducing Instability, Increasing Capacity
 description: CAI Workshop 2025
-baseurl:      "/stable-pretraining-paradigms-for-llms-workshop.github.io"
+baseurl:      "/Fairness-aware-Federated-Optimization-and-Learning"
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
   #name:       Author name
-  url:       "https://stable-pretraining-paradigms-for-llms.github.io" 
+  url:       "https://xw00616.github.io/Fairness-aware-Federated-Optimization-and-Learning" 
 
 #Others
 navigation:
