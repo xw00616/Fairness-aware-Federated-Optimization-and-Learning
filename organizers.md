@@ -19,7 +19,7 @@ layout: default
         <a href="https://scholar.google.com/citations?user=73IbXtsAAAAJ&hl=en">Wei-Neng Chen</a>, <br> South China University of Technology</figcaption></figure></td>
      </tr> 
     <tr>
-        <td style="text-align: center; border: none;"><figure><img src="assets/yaochu.png" height="220"><figcaption>
+        <td style="text-align: center; border: none;"><figure><img src="assets/yaochu.jpg" height="220"><figcaption>
         <a href="https://scholar.google.com/citations?user=9vQ7gbgAAAAJ&hl">Yaochu Jin</a>, <br>Westlack University</figcaption></figure></td>
      </tr> 
 </table>
