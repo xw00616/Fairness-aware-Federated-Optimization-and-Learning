@@ -1,7 +1,7 @@
 ---
 layout: default 
 ---
-<p style='text-align: justify;'><b>Our workshop aims to develop privacy-preserving and fairness-aware techniques that span both optimization and learning domains.</b></p>
+<p style='text-align: justify;'><b>Our workshop aims to develop secure, privacy-preserving and fairness-aware techniques that span both optimization and learning domains.</b></p>
 
 # <span style="display:block;text-align:center">Topic and Content</span>
 
