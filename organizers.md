@@ -9,7 +9,7 @@ layout: default
         <td style="text-align: center; border: none;"><figure><img src="assets/xilu.png" height="220"><figcaption>
         <a href="https://scholar.google.com/citations?user=Xmlr1xQAAAAJ&hl=en&inst=15262737669262836719&oi=ao">Xilu Wang</a>, <br> University of Surrey</figcaption></figure></td>
         <td style="text-align: center; border: none;"><figure><img src="assets/pedro.png" height="220"><figcaption>
-        <a href="https://scholar.google.com/citations?user=Xmlr1xQAAAAJ&hl=en&inst=15262737669262836719&oi=ao">Pedro Porto Buarque de Gusmão</a>, <br> University of Surrey</figcaption></figure></td>
+        <a href="https://scholar.google.com/citations?user=TfdVttMAAAAJ&hl=en&inst=15262737669262836719&oi=ao">Pedro Porto Buarque de Gusmão</a>, <br> University of Surrey</figcaption></figure></td>
     </tr> 
     <tr>
         <td style="text-align: center; border: none;"><figure><img src="assets/lu.jpeg" height="220"><figcaption>
