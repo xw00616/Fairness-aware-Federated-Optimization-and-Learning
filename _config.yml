@@ -15,7 +15,7 @@ navigation:
   Workshop: "index"
   Organizers: "organizers"
   Speakers: "speakers"
-  Venue: "venue"
+  Venue: "committee"
   Schedule: "schedule"
   Q&A: "question"
 markdown: kramdown
