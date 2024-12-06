@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# <span style="display:block;text-align:center">Venue</span>
+# <span style="display:block;text-align:center">Committee</span>
 
 
